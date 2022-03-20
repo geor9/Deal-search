@@ -1,2 +1,2 @@
-# Shopping-Portal
-A website for searching for a product to find the best deal on slickdeals, amazon, etc.
+Search for deals on slickdeals, amazon, etc. all at once
+https://htmlpreview.github.io/?https://github.com/geor9/Shopping-Portal/searchmultiple.html
